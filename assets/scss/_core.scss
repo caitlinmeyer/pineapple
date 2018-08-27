@@ -25,13 +25,13 @@ h2,
 .h2 {	
 	color: $color-teal;
 	display: block;
-	font-family: $font-lekton;
+	font-family: $font-playfair;
     font-size: 1rem;
     font-weight: 400;
     letter-spacing: .2rem;
     line-height: 1;
     margin: 0 0 1rem;
-    text-transform: uppercase;
+    text-transform: lowercase;
 }
 
 h3,
