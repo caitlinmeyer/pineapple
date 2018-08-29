@@ -1,7 +1,7 @@
 ---
 layout: project
 permalink: /:title/
-category: projects, test
+category: projects, library
 
 meta:
   keywords: "Jekyll, Pineapple"
